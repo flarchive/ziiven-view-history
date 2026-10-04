@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of ziiven/view-history.** Not for installation: use [Packagist](https://packagist.org/packages/ziiven/view-history) or the [upstream repository](https://github.com/Ziiven/view-history).
 
-**0** versions archived · Latest: [`v0.1.7`](https://github.com/flarchive/ziiven-view-history/tree/archive/v0.1.7) · License: `MIT` · Flarum: `^1.0`
+**6** versions archived · Latest: [`v0.1.7`](https://github.com/flarchive/ziiven-view-history/tree/archive/v0.1.7) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.1.2` | 2022-11-29 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-view-history/tree/archive/v0.1.2) |
+| `v0.1.3` | 2022-12-02 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-view-history/tree/archive/v0.1.3) |
+| `v0.1.4` | 2022-12-03 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-view-history/tree/archive/v0.1.4) |
+| `v0.1.5` | 2022-12-14 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-view-history/tree/archive/v0.1.5) |
+| `v0.1.6` | 2023-03-05 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-view-history/tree/archive/v0.1.6) |
+| `v0.1.7` | 2023-04-01 | `^1.0` | [Browse](https://github.com/flarchive/ziiven-view-history/tree/archive/v0.1.7) |
 
 Catalog entry: [packages/ziiven-view-history.json](https://github.com/flarchive/archive-index/blob/main/packages/ziiven-view-history.json)
 
